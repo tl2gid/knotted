@@ -31,7 +31,7 @@ legend,label{display:none;}
 fieldset{border:none;}
 address{font-style: normal;}
 input, progress {accent-color:#FCA2C9;}
-
+.hide{display:none}
 
 /*------header------*/
 .header{
@@ -271,7 +271,7 @@ input, progress {accent-color:#FCA2C9;}
 .news .title{
     margin:70px 0;
 }
-article{
+.news_wrap{
     margin:auto;
     width:95%;
     display:flex;
